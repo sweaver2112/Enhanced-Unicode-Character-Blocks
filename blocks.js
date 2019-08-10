@@ -68,7 +68,7 @@ characterSets = [
         ranges:[
             {min:0x2661, max: 0x2661},/*misc symbols*/
             {min:0x2665, max: 0x2665},/*misc symbols*/
-            {min:0x2764, max: 0x2764},
+            {min:0x2762, max: 0x2767},
             {min:0x1F394, max: 0x1F394}, /*text heart*/
             {min:0x1F48C, max: 0x1F48C}, /*letter*/
             {min:0x1F48F, max: 0x1F48F},
