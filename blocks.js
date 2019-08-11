@@ -2,6 +2,11 @@
 characterSets = [
     /*enhanced and graphics categories */
     {
+        key: "Emoticons",
+        fontInstalled: true,
+        min: 0x1F600,
+        max: 0x1F64F
+    },{
         key:"Emoticons+",
         fontInstalled: true,
         ranges:[
@@ -629,11 +634,6 @@ characterSets = [
         min: 69600,
         max: 69631
     }, {
-        key: "Emoticons",
-        fontInstalled: true,
-        min: 0x1F600,
-        max: 0x1F64F
-    },{
         key: "Enclosed Alphanumeric Supplement",
         fontInstalled: true,
         min: 127232,
