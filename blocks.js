@@ -8,7 +8,15 @@ var characterSets = [
     ranges:[
         {min:0X26F9, max: 0x26F9 }, /*misc symbols - baller*/
         {min:0X26C4, max: 0x26C4 }, /*snowman */
-        {min:0X1F31A, max: 0x1F31D}, {min:0X1F383, max: 0x1F383 }, {min:0X1F385, max: 0x1F385 }, {min:0X1F3C2, max: 0x1F3C4 }, {min:0X1F3CA, max: 0X1F3CC}, {min:0x1F440, max: 0x1F440 }, {min:0x1F464, max: 0x1F483 }, {min:0x1F486, max: 0x1F487 }, {min:0X1F48F, max: 0X1F48F}, /*couple closed eyes*/
+        {min:0X1F31A, max: 0x1F31E},/*suns and moons*/ 
+        {min:0X1F383, max: 0x1F383 }, 
+        {min:0X1F385, max: 0x1F385 }, 
+        {min:0X1F3C2, max: 0x1F3C4 }, 
+        {min:0X1F3CA, max: 0X1F3CC}, 
+        {min:0x1F440, max: 0x1F440 }, 
+        {min:0x1F464, max: 0x1F483 }, 
+        {min:0x1F486, max: 0x1F487 }, 
+        {min:0X1F48F, max: 0X1F48F}, /*couple closed eyes*/
         {min:0X1F491, max: 0X1F491 }, /*couple open eyes*/
         {min:0X1F4A9, max: 0X1F4A9 }, /*poo*/
         {min:0X1F574, max: 0X1F575 }, {min:0X1F5FF, max: 0X1F5FF}, /*stonehenge*/
