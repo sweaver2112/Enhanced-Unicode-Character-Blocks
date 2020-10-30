@@ -1,5 +1,5 @@
 # Enhanced-Unicode-Character-Blocks
-All character blocks defined by the consortium, and then some, in JSON.
+All character blocks defined by the consortium, and then some, in JavaScript.
 
 Created for The Unicode Machine:
 
