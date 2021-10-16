@@ -1,5 +1,5 @@
 /* Enhanced Unicode Character Blocks by Scott Weaver | MIT License | https://github.com/sweaver2112/Enhanced-Unicode-Character-Blocks/blob/master/blocks.js */
-var characterSets = [
+characterSets = [
 /*enhanced and pictograph categories listed first*/
 { key: "Emoticons", fontInstalled: true, min: 0x1F600, max: 0x1F64F},
 { 
